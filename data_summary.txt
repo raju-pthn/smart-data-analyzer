@@ -1,0 +1,7 @@
+DATA ANALYSIS REPORT
+====================
+
+Total Rows: 5
+Total Columns: 3
+Duplicate Rows: 1
+Missing Values: {'Name ': 0, 'Age': 1, 'City': 1}
